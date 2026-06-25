@@ -1,0 +1,1 @@
+g++ main.cpp -o vdlistener.exe -std=c++17 -lole32 -loleaut32 -luuid
